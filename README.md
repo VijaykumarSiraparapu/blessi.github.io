@@ -1,2 +1,2 @@
-# blessi.github.io
+# vijay.github.io
 portfolio
